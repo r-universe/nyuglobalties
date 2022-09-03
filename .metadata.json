@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "package": "blueprintr"
+  },
+  {
+    "package": "rcoder"
+  },
+  {
+    "package": "panelcleaner"
+  },
+  {
+    "package": "rddi",
+    "oncran": false
+  }
+]

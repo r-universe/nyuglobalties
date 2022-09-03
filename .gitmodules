@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nyuglobalties/universe
 	shallow = true
 	branch = HEAD
+[submodule "blueprintr"]
+	path = blueprintr
+	url = https://github.com/nyuglobalties/blueprintr
+	shallow = true
+	registered = true
+[submodule "rcoder"]
+	path = rcoder
+	url = https://github.com/nyuglobalties/rcoder
+	shallow = true
+	registered = true
+[submodule "panelcleaner"]
+	path = panelcleaner
+	url = https://github.com/nyuglobalties/panelcleaner
+	shallow = true
+	registered = true
+[submodule "rddi"]
+	path = rddi
+	url = https://github.com/nyuglobalties/rddi
+	shallow = true
+	registered = true
