@@ -1,0 +1,20 @@
+[
+  {
+    "package": "panelcleaner",
+    "url": "https://github.com/nyuglobalties/panelcleaner",
+    "via": ["blueprintr"],
+    "from": "blueprintr"
+  },
+  {
+    "package": "rcoder",
+    "url": "https://github.com/nyuglobalties/rcoder",
+    "via": ["blueprintr"],
+    "from": "blueprintr"
+  },
+  {
+    "package": "rcoder",
+    "url": "https://github.com/nyuglobalties/rcoder",
+    "via": ["blueprintr", "panelcleaner"],
+    "from": "blueprintr"
+  }
+]
