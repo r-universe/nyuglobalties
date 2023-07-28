@@ -14,12 +14,6 @@
   {
     "package": "rcoder",
     "url": "https://github.com/nyuglobalties/rcoder",
-    "via": ["blueprintr", "panelcleaner"],
-    "from": "blueprintr"
-  },
-  {
-    "package": "rcoder",
-    "url": "https://github.com/nyuglobalties/rcoder",
     "via": ["panelcleaner"],
     "from": "panelcleaner"
   }
