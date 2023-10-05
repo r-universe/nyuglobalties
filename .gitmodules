@@ -5,12 +5,12 @@
 [submodule "blueprintr"]
 	path = blueprintr
 	url = https://github.com/nyuglobalties/blueprintr
-[submodule "rcoder"]
-	path = rcoder
-	url = https://github.com/nyuglobalties/rcoder
 [submodule "panelcleaner"]
 	path = panelcleaner
 	url = https://github.com/nyuglobalties/panelcleaner
+[submodule "rcoder"]
+	path = rcoder
+	url = https://github.com/nyuglobalties/rcoder
 [submodule "rddi"]
 	path = rddi
 	url = https://github.com/nyuglobalties/rddi
