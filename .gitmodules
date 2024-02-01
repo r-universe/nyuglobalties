@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nyuglobalties/universe
+	url = https://github.com/nyuglobalties/nyuglobalties.r-universe.dev
 	branch = HEAD
 [submodule "blueprintr"]
 	path = blueprintr
